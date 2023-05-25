@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-I am currently pursuing an MS in Computer Science at Columbia University through the MS Bridge Program, with an expected graduation date of May 2024. Prior to Columbia, I served as President and CFO at TrialSpark, a technology-driven drug development platform operating end-to-end clinical trials for biopharma and the life sciences industry.  Prior to TrialSpark, I served as Chief Financial Officer at CityMD, the leading urgent care operator in the New York metro area.  Before entering a career as an operator, Quentin spent 12 years at Crestview Partners, a New York-based private equity firm as a Partner leading the firm's healthcare, financial services and business services practices.  Quentin started his career at Goldman Sachs and The Carlyle Group, and received his Bachelor of Arts in Classics from Harvard University in 1999 and his MBA from Harvard Business School in 2005.  Quentin was born and raised in Hong Kong, and currently lives in New York City with his wife and two sons.
+I am currently pursuing an MS in Computer Science at Columbia University through the MS Bridge Program, with an expected graduation date of May 2024. Prior to Columbia, I had spent over 20 years in the healthcare and financial services industries as an operator and an investor. I received a Bachelor of Arts in Classics from Harvard University in 1999 and an MBA from Harvard Business School in 2005.  Born and raised in Hong Kong, I currently live in New York City with my wife Hannah and two sons Miles and Oliver.
 
 ## About My Advisors
 
