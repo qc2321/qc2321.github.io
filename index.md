@@ -25,7 +25,3 @@ Primary areas of research: Database Systems, Interfaces & Design, Query Explanat
 Project description goes here.
 
 [My Final Report](files/finalreport.pdf)
-
-## My Blog
-
-[My Blog](blog.html)
