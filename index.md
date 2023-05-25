@@ -12,16 +12,11 @@ I am currently pursuing an MS in Computer Science at Columbia University through
 
 ## About My Advisor
 
-[Nakul Verma](https://www.cs.columbia.edu/~verma/index.html)
+[Nakul Verma](https://www.cs.columbia.edu/~verma/index.html) -- Computer Science, Columbia University
 
-Computer Science, Columbia University
+Primary areas of research: Machine Learning, High-Dimensional Statistics
 
-Primary areas of research: Machine Learning, High-Dimensional Statistics\n
-
-
-[Eugene Wu](http://www.cs.columbia.edu/~ewu/)
-
-Computer Science, Columbia University
+[Eugene Wu](http://www.cs.columbia.edu/~ewu/) -- Computer Science, Columbia University
 
 Primary areas of research: Database Systems, Interfaces & Design, Query Explanation
 
