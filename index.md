@@ -22,6 +22,6 @@ Primary areas of research: Database Systems, Interfaces & Design, Query Explanat
 
 ## About My Project
 
-Project description goes here.
+The goal of my project is to develop an algorithm to transforms high-dimensional data into clusters based on some provided measure of similarity, but retains the structure of each cluster to allow exploration of subgroup features.
 
 [My Final Report](files/finalreport.pdf)
