@@ -25,3 +25,7 @@ Primary areas of research: Database Systems, Interfaces & Design, Query Explanat
 The goal of my project is to develop a metric learning algorithm that transforms high-dimensional data into clusters based on some provided measures of similarity, but retains the structure of each cluster to allow subsequent exploration of subgroup features.
 
 [My Final Report](files/finalreport.pdf)
+
+## My Blog
+
+[My Blog](blog.html)
